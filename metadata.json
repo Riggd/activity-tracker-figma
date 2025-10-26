@@ -1,0 +1,5 @@
+{
+  "name": "Figma Activity Tracker",
+  "description": "A web application to display a user's personal Figma activity log and progress visualization, similar to a GitHub contribution graph.",
+  "requestFramePermissions": []
+}
